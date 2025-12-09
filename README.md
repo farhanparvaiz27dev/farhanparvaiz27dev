@@ -14,7 +14,7 @@ I love building clean, user-friendly web  applications, and I’m passionate abo
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript,
+**Frontend:** HTML, CSS, JavaScript,React js,Node Js
 **langaue:**  c++, mysql
 **Mobile:** Flutter, Dart  
 **Backend (Learning):** Python  
