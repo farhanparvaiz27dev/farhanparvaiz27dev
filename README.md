@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Farhan Parvaiz
 
-💻 **Frontend Developer | Flutter Enthusiast | Python Learner**  
-I love building clean, user-friendly web and mobile applications, and I’m passionate about exploring AI and innovative technologies.
+💻 **Frontend Developer  
+I love building clean, user-friendly web  applications, and I’m passionate about exploring AI and innovative technologies.
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Python** for AI and backend development  
-- 💼 Skilled in **Frontend Web Development** and **Flutter**  
-- 👀 Interested in **Web Development** & **Artificial Intelligence**  
+- 💼 Skilled in **Frontend Web Development** 
+- 👀 Interested in **Web Development** 
 - 💞 Looking to collaborate on **open-source projects, web apps, and innovative ideas**  
 - 📫 Reach me at **farhanparvaiz279@gmail.com**
 
@@ -21,14 +20,7 @@ I love building clean, user-friendly web and mobile applications, and I’m pass
 **Backend (Learning):** Python  
 **Tools & Platforms:** Git, GitHub, VS Code, Firebase  
 
----
-
-
-
-## 📂 Featured Projects
-- 🚀 **[Flutter Service App](#)** – A mobile app connecting clients with service providers  
-- 🌐 **[Personal Portfolio Website](#)** – Showcasing my skills and projects  
-- 💡 **[Python AI Experiment](#)** – Small AI projects while learning Python  
+--
 
 ---
 
